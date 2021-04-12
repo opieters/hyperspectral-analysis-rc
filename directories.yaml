@@ -1,0 +1,6 @@
+data_dir: "./data/"
+src_dir_0: "./data/experiment0/"
+src_dir_1: "./data/experiment1/"
+dst_dir_0: "./data/experiment0/"
+dst_dir_1: "./data/experiment1/"
+sum_dir: "./data/summary/"
